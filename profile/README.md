@@ -45,4 +45,4 @@ Our system ensures simplicity at all levels of the design. With our interaction 
 
 ---
 
-<img src='level0_design.png'>
+<img src='https://i.postimg.cc/L5GyFpwm/Screenshot-2022-09-14-at-12-25-03-PM.png'>
