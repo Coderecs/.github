@@ -3,22 +3,12 @@
 
 <hr>
 
-## Team
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        <p>Abhinav Rawal</p>
-        <p>Uttam Mittal</p>
-        <p>Harasees Singh</p>
-        <p>Harshpreet Singh Johar</p>
-    </div>
-    <div>
-        <p>20103008</p>
-        <p>20103056</p>
-        <p>20103074</p>
-        <p>20103076</p>
-    </div>
-</div>
+| Team Member            | SID      |
+|------------------------|----------|
+| Abhinav Rawal          | 20103008 |
+| Uttam Mittal           | 20103056 |
+| Harasees Singh         | 20103074 |
+| Harshpreet Singh Johar | 20103076 |
 
 ---
 
@@ -55,4 +45,4 @@ Our system ensures simplicity at all levels of the design. With our interaction 
 
 ---
 
-<img src='./level0_design.png'>
+<img src='level0_design.png'>
