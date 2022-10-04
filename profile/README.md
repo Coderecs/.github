@@ -12,6 +12,8 @@
 
 ---
 
+## SRS
+[Click here to view Software Requirement Specification](./SRS.pdf)
 ## The problem we aim to solve
 
 Competitive Programming is a mind sport that gained popularity around 10 years ago. It involves tricky mathematical puzzles that require the amalgamation of algorithms, number theory and general logic to solve. It has a huge community which grows every year with college freshers entering the realm of coding from around the world. The most important factor that decides the leaderboard in programming contests is the ability to think out of the box. This is built over time with persistent practice.
